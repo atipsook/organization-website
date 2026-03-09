@@ -1,6 +1,6 @@
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-
+import MarketPulse from './components/MarketPulse';
 import Philosophy from './components/Philosophy';
 import Privileges from './components/Privileges';
 import Council from './components/Council';
@@ -14,7 +14,7 @@ function App() {
       <Navbar onLoginClick={() => {}} />
       <main>
         <Hero />
-      
+        <MarketPulse/>
         <Philosophy />
         <Privileges />
         <Council />
