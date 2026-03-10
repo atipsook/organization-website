@@ -31,13 +31,13 @@ export default function Navbar({ onLoginClick }: NavbarProps) {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <a href="#home" className="flex items-center space-x-3">
-              <div className="relative w-10 h-10">
-                <div className="absolute inset-0 bg-gradient-to-br from-gold via-gold-light to-gold rounded-lg rotate-45" />
-                <div className="absolute inset-0.5 bg-obsidian rounded-lg rotate-45" />
-                <span className="absolute inset-0 flex items-center justify-center">
-                  <span className="text-gold font-serif text-lg font-bold">A</span>
-                </span>
-              </div>
+               <div className="relative w-10 h-10">
+      <img 
+        src="/LOGO.jpeg" 
+        alt="NextGen Finance Club Logo" 
+        className="w-full h-full object-contain rounded-1g"
+      />
+    </div>
               <div className="flex flex-col">
                 <span className="text-xl font-serif font-bold text-white tracking-wider">NEXTGEN</span>
                 <span className="text-[10px] tracking-[0.3em] text-gold/70 -mt-1">FINANCE CLUB</span>

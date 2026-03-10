@@ -129,7 +129,7 @@ export default function Hero() {
                 ))}
               </div>
               <div>
-                <p className="text-sm text-slate-400">Join <span className="text-gold font-semibold">200+</span> student members</p>
+                <p className="text-sm text-slate-400">Join <span className="text-gold font-semibold">20+</span> student members</p>
               </div>
             </motion.div>
           </motion.div>
@@ -146,7 +146,7 @@ export default function Hero() {
               <div className="absolute -inset-4 bg-gradient-to-r from-gold/20 via-gold/10 to-transparent rounded-3xl blur-2xl" />
               <div className="relative bg-gradient-to-br from-deep-navy to-obsidian rounded-3xl p-1 border border-gold/20">
                 <img
-                  src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&h=1000&fit=crop"
+                  src="/public/image.png"
                   alt="Students learning finance"
                   className="rounded-2xl w-full h-[500px] lg:h-[650px] object-cover"
                 />

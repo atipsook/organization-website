@@ -23,7 +23,7 @@ export const councilMembers = [
     name: "Tanawat Cheevarunthai",
     role: "Founder/president",
     credentials: "",
-    image: "https://images.unsplash.com/6359142-bphoto-1573498d87734a5a2?w=600&h=800&fit=crop&crop=face",
+    image: "https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.15752-9/648914017_1232632115698287_5552729081837939845_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=klUo5sQCxiUQ7kNvwEmRMNA&_nc_oc=AdmJyIa5Giaky3uNFBg9Os5zXJuKh5hHnvtH00jWYdtqic06xbAbxXJ2Q_fRVwH0dX8&_nc_zt=23&_nc_ht=scontent.fbkk22-2.fna&_nc_ss=8&oh=03_Q7cD4wHiBNxVrm_QOSYWT2KE1vfwJcx4zTiXZyAvE1ebVjlPrg&oe=69D77040",
     bio: "Professor of Finance with 15 years of Wall Street experience."
   },
   {
@@ -31,7 +31,7 @@ export const councilMembers = [
     name: "Atip Sookruksawong",
     role: "Club vice president",
     credentials: "",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=600&h=800&fit=crop&crop=face",
+    image: "/public/IMG_1374.JPG",
     bio: "Incoming analyst at Goldman Sachs, stock market competitor."
   },
   {
@@ -39,7 +39,7 @@ export const councilMembers = [
     name: "Napakapol Pitakteeratham",
     role: "Head of Media and Marketing",
     credentials: "Founder of Versain",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=600&h=800&fit=crop&crop=face",
+    image: "https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.15752-9/647153096_1145311467643012_2393487481024967424_n.png?_nc_cat=101&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=XvjPBdlaUioQ7kNvwEd5eDE&_nc_oc=AdksJKIqZU8orO9j57neSoGx4PllTqFKL0Ay8fGqap5EQPhG0e9aiwq2-ivYolY5PYc&_nc_zt=23&_nc_ht=scontent.fbkk22-1.fna&_nc_ss=8&oh=03_Q7cD4wER1KsM7x7X33LkWBMTHoEwoK9C0NTHlL8z8kxf8IUnJQ&oe=69D78056",
     bio: "Research analyst, Bloomberg terminal certified."
   },
   {
@@ -47,7 +47,7 @@ export const councilMembers = [
     name: "Sorathon Chungsawanant",
     role: "Treasury Director",
     credentials: "",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=800&fit=crop&crop=face",
+    image: "https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.15752-9/643764144_2093077611532821_3667990157807596892_n.png?_nc_cat=106&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=9OmvQ3T5TI4Q7kNvwH2tD03&_nc_oc=Adn5aW1h3EP53s2YQCbROOyENEuaSaPw7s9G5ERUotdp0GokK-ciOB4BCUrJ_FZC40w&_nc_zt=23&_nc_ht=scontent.fbkk22-2.fna&_nc_ss=8&oh=03_Q7cD4wEiKjXsV9s8e5IeW164Qlv8dfDNYZyf9q-ijLuBK3vp-A&oe=69D7841A",
     bio: "Manages club portfolio, CPA prep track."
   },
   {
@@ -55,7 +55,7 @@ export const councilMembers = [
     name: "Bino Kim",
     role: "Scretary",
     credentials: "",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=800&fit=crop&crop=face",
+    image: "https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.15752-9/646328927_1977222346541129_4342944407309584316_n.png?_nc_cat=101&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=2zC807Dgv1kQ7kNvwHgb_L5&_nc_oc=Adnkf4RxWIJ2UDiQ9QcV4qTZZCvuAL9LDoAjmlZnJWkT8P4w0CXsZRCqGtH7cilzY_0&_nc_zt=23&_nc_ht=scontent.fbkk22-1.fna&_nc_ss=8&oh=03_Q7cD4wFMI48t-4_AoGPTwstXz3g37fj50dJy66soUbBKPyIyIA&oe=69D76F22",
     bio: "Manages club portfolio, CPA prep track."
   }
 ];
@@ -66,7 +66,7 @@ export const events = [
     title: "Wharton Investment Competition",
     date: "September 29, 2025",
     location: "Online",
-    image: "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=600&fit=crop",
+    image: "/public/wharton.jpg",
     category: "Competition",
     attendees: "1000+",
     exclusive: false
@@ -76,7 +76,7 @@ export const events = [
     title: "IFF Fair Booth",
     date: "February 07, 2026",
     location: "International School Bangkok",
-    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+    image: "/public/IFF2.jpeg",
     category: "Booth",
     attendees: "50+",
     exclusive: false
@@ -86,7 +86,7 @@ export const events = [
     title: "Topp Jirayut Financial Guest speaker",
     date: "November 07, 2025",
     location: "International School Bangkok",
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop",
+    image: "/public/TOPP.jpeg",
     category: "Guest Speaker",
     attendees: "50+",
     exclusive: false
@@ -96,7 +96,7 @@ export const events = [
     title: "Build Real world Financial skill Guest speaker",
     date: "February 17, 2026",
     location: "Room 3-321, International School Bangkok",
-    image: "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=800&h=600&fit=crop",
+    image: "/public/IMG_7490.jpeg",
     category: "Guest speaker",
     attendees: "10+",
     exclusive: false
