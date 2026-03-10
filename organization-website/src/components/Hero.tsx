@@ -146,7 +146,7 @@ export default function Hero() {
               <div className="absolute -inset-4 bg-gradient-to-r from-gold/20 via-gold/10 to-transparent rounded-3xl blur-2xl" />
               <div className="relative bg-gradient-to-br from-deep-navy to-obsidian rounded-3xl p-1 border border-gold/20">
                 <img
-                  src="/public/image.png"
+                  src="/image.png"
                   alt="Students learning finance"
                   className="rounded-2xl w-full h-[500px] lg:h-[650px] object-cover"
                 />
