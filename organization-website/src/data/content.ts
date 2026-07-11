@@ -22,32 +22,32 @@ export const councilMembers = [
     id: 1,
     name: "Tanawat Cheevarunthai",
     role: "Founder/president",
-    credentials: "",
-    image: "https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.15752-9/648914017_1232632115698287_5552729081837939845_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=klUo5sQCxiUQ7kNvwEmRMNA&_nc_oc=AdmJyIa5Giaky3uNFBg9Os5zXJuKh5hHnvtH00jWYdtqic06xbAbxXJ2Q_fRVwH0dX8&_nc_zt=23&_nc_ht=scontent.fbkk22-2.fna&_nc_ss=8&oh=03_Q7cD4wHiBNxVrm_QOSYWT2KE1vfwJcx4zTiXZyAvE1ebVjlPrg&oe=69D77040",
+    credentials: "https://www.linkedin.com/in/tanawat-cheevarunothai-558356374/",
+    image: "/whale.jpeg",
     bio: ""
   },
   {
     id: 2,
     name: "Atip Sookruksawong",
     role: "Club vice president",
-    credentials: "",
+    credentials: "https://www.linkedin.com/in/atip-sookruksawong-8b4535349/",
     image: "/IMG_1374.JPG",
-    bio: ""
+    bio: "Founder of Docsage and Extrack"
   },
   {
     id: 3,
     name: "Napakapol Pitakteeratham",
     role: "Head of Media and Marketing",
-    credentials: "Founder of Versain",
-    image: "https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.15752-9/647153096_1145311467643012_2393487481024967424_n.png?_nc_cat=101&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=XvjPBdlaUioQ7kNvwEd5eDE&_nc_oc=AdksJKIqZU8orO9j57neSoGx4PllTqFKL0Ay8fGqap5EQPhG0e9aiwq2-ivYolY5PYc&_nc_zt=23&_nc_ht=scontent.fbkk22-1.fna&_nc_ss=8&oh=03_Q7cD4wER1KsM7x7X33LkWBMTHoEwoK9C0NTHlL8z8kxf8IUnJQ&oe=69D78056",
-    bio: "Research analyst, Bloomberg terminal certified."
+   credentials: "https://www.linkedin.com/in/napakapol-pitakteeratham-2357a9270/",
+    image: "/shayne.jpeg",
+    bio: "Founder of Versain"
   },
   {
     id: 4,
     name: "Sorathon Chungsawanant",
     role: "Treasury Director",
     credentials: "",
-    image: "https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.15752-9/643764144_2093077611532821_3667990157807596892_n.png?_nc_cat=106&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=9OmvQ3T5TI4Q7kNvwH2tD03&_nc_oc=Adn5aW1h3EP53s2YQCbROOyENEuaSaPw7s9G5ERUotdp0GokK-ciOB4BCUrJ_FZC40w&_nc_zt=23&_nc_ht=scontent.fbkk22-2.fna&_nc_ss=8&oh=03_Q7cD4wEiKjXsV9s8e5IeW164Qlv8dfDNYZyf9q-ijLuBK3vp-A&oe=69D7841A",
+    image: "/Thon.jpeg",
     bio: ""
   },
   {
@@ -55,7 +55,7 @@ export const councilMembers = [
     name: "Bino Kim",
     role: "Scretary",
     credentials: "",
-    image: "https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.15752-9/646328927_1977222346541129_4342944407309584316_n.png?_nc_cat=101&ccb=1-7&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOmNvbnRyb2wiXX0%3D&_nc_ohc=2zC807Dgv1kQ7kNvwHgb_L5&_nc_oc=Adnkf4RxWIJ2UDiQ9QcV4qTZZCvuAL9LDoAjmlZnJWkT8P4w0CXsZRCqGtH7cilzY_0&_nc_zt=23&_nc_ht=scontent.fbkk22-1.fna&_nc_ss=8&oh=03_Q7cD4wFMI48t-4_AoGPTwstXz3g37fj50dJy66soUbBKPyIyIA&oe=69D76F22",
+    image: "/BIno.jpeg",
     bio: ""
   }
 ];

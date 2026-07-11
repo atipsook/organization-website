@@ -40,8 +40,8 @@ export default function Footer() {
                 </span>
               </div>
               <div className="flex flex-col">
-                <span className="text-xl font-serif font-bold tracking-wider">AUREUS</span>
-                <span className="text-[10px] tracking-[0.3em] text-gold/70 -mt-1">CIRCLE</span>
+                <span className="text-xl font-serif font-bold tracking-wider">Nextgen</span>
+                <span className="text-[10px] tracking-[0.3em] text-gold/70 -mt-1">Finance</span>
               </div>
             </div>
 
@@ -173,7 +173,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2 text-slate-500 text-sm">
               <Shield className="w-4 h-4" />
-              <span>© {new Date().getFullYear()} The Aureus Circle. All rights reserved.</span>
+              <span>© {new Date().getFullYear()} NextgenFinance. All rights reserved.</span>
             </div>
             <div className="flex items-center gap-2 text-slate-500 text-sm">
               <Lock className="w-4 h-4" />

@@ -66,13 +66,17 @@ export default function Council() {
 
                 {/* Info */}
                 <div className="text-center">
-                  <h3 className="text-xl font-serif font-bold text-white mb-1 group-hover:text-gold transition-colors">
-                    {member.name}
+                  <h3 className="text-xl font-serif font-bold mb-1">
+                    <a
+                      href={member.credentials}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-white group-hover:text-gold transition-colors hover:underline"
+                    >
+                      {member.name}
+                    </a>
                   </h3>
                   <p className="text-gold text-sm font-medium mb-2">{member.role}</p>
-                  <p className="text-slate-500 text-xs uppercase tracking-wider mb-3">
-                    {member.credentials}
-                  </p>
                   <p className="text-slate-400 text-sm leading-relaxed">
                     {member.bio}
                   </p>
